@@ -1,0 +1,3 @@
+displayName = UnlimitedPotionsBuffsCalamity
+author = DFRA
+version = 0.1
